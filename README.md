@@ -1,4 +1,4 @@
-BUSINESS ANALYST
+I’m a data-driven financial analyst and business analytics professional with expertise in Python, SQL, Tableau, and advanced financial modeling. I build automated models and interactive dashboards that uncover actionable insights, improve forecasting accuracy, and drive strategic decision-making across finance, marketing, and operations. Passionate about leveraging data science and analytics to solve complex business problems and deliver measurable impact.
 
 EDUCATION
 
@@ -12,55 +12,44 @@ Bachelor of Technology - Computer Science Engineering (Data Science), May 2024
 PROFESSIONAL EXPERIENCE
 
 Financial Data Analyst | Virginia Tech, Alexandria, VA May 2024-May 2025
-• Built automated financial models in Python and Excel to detect non-GAAP inconsistencies in 20% of 1,000+ firms.
-• Raised revenue forecast accuracy by 15% through SQL-based financial data extraction and analysis.
-• Enabled strategic decision-making by building 4 real-time Tableau dashboards providing visibility into revenue and margin trends.
-• Collaborated with 4 faculty members and financial analysts to uncover profitability patterns, supporting investment decisions.
+
+Built automated financial models using Python and Excel to detect non-GAAP inconsistencies and improved revenue forecast accuracy by 15% through SQL-driven analysis. Created real-time Tableau dashboards and collaborated with analysts to uncover profitability patterns supporting strategic investment decisions.
 
 Financial Data Analyst | Recoversy, India (Remote) May 2022-May 2024
-• Identified $6M+ in recoverable assets by analyzing investor claim patterns, increasing quarterly recovery revenue by 25%.
-• Developed interactive real-time dashboards in Tableau tracking $120M+ in claims, cutting leadership decision time by 40%.
-• Standardized 2M+ records using Python, boosting portal match rate by 30%, which led to 15% more successful investor engagements.
-• Resolved 1,500+ complex claims 35% faster by collaborating with cross-border legal teams, unlocking $2.4M+ in idle investor assets.
-• Segmented investor data and analyzed gaps, boosting first-contact recovery closures by 20%.
+
+Identified over $6M in recoverable assets and boosted recovery revenue by 25% through investor claim analysis and data segmentation. Built real-time Tableau dashboards and standardized 2M+ records in Python, accelerating decisions and improving recovery outcomes by up to 35%.
 
 Operations Analyst | Virginia Tech, Alexandria, VA February 2025- May 2025
-• Boosted front desk and mailroom efficiency by 30% via time-motion studies and workflow redesigns for 500+ stakeholders.
-• Shortened event setup time by 20% by optimizing data-driven schedules for 3–5 weekly institutional events.
+
+Improved front desk and mailroom efficiency by 30% through workflow redesigns impacting 500+ stakeholders. Reduced event setup time by 20% by implementing optimized, data-driven scheduling for weekly institutional events.
 
 Academic Analyst | Knack, Alexandria, VA August 2024-January 2025
-• Elevated academic performance by 20% for 20+ students through customized Finance and Business Law tutoring.
-• Designed 10+ individualized learning pathways based on diagnostic assessments and academic engagement metrics.
+Improved academic performance by 20% for 20+ students through personalized Finance and Business Law tutoring. Created over 10 tailored learning pathways using diagnostic assessments and engagement metrics.
 
 Operations Analyst | Virginia Tech Dining Services, Blacksburg, VA August 2023-August 2024
-• Minimized stock discrepancies by 15% through real-time inventory tracking and improved staff scheduling.
-• Led and mentored 10+ student staff members, resulting in more consistent service quality and operational discipline.
+Reduced stock discrepancies by 15% by implementing real-time inventory tracking and optimizing staff schedules. Led and mentored 10+ student team members, enhancing service consistency and operational efficiency.
 
 SKILLS
 
-Technical: Python (Pandas, NumPy, Scikit-learn), SQL (Joins, CTEs, Query Optimization), Excel (VBA, Pivot Tables), R, JMP
-Data Analysis & BI Tools: Tableau, Power BI, Looker, Databricks, Snowflake, PowerPoint, Alteryx
-Statistical & Predictive Analytics: Regression, A/B Testing, Hypothesis Testing, Predictive Modeling, Churn Analysis
-Data Engineering: ETL Pipelines, Data Cleaning, Big Data (Hadoop, Spark), AWS, Azure
-Financial Modeling: FP&A, DCF, Sensitivity, Budgeting, Forecasting, Risk Analysis, Revenue & Margin Analysis, GAAP Accounting
-Soft Skills: Communication, Collaboration, Attention to Detail, Project Management, CRM
+Skilled in Python, SQL, and Excel for building scalable data pipelines, predictive models, and financial analyses. Experienced with BI tools like Tableau and Power BI, cloud platforms (AWS, Azure), and statistical techniques to drive data-informed decisions and operational impact.
 
 ACADEMIC PROJECTS
 
 Behavioral Analytics and Product Strategy for E-Retailer 
-• Achieved a 15% marketing conversion lift by segmenting 1.2M customers through RFM analysis in Python.
-• Applied Apriori algorithm and Holt-Winters forecasting to drive 10% upsell growth and reduce stockouts by 20%.
+
+Drove a 15% marketing conversion lift by segmenting 1.2M customers using RFM analysis in Python. Leveraged the Apriori algorithm and Holt-Winters forecasting to boost upsell growth by 10% and cut stockouts by 20%.
 
 Bank of America Investment Banking Virtual Experience Program on Forage 
-• Identified M&A target via SWOT and built a $150M DCF model with $28.40 share price projection.
-• Conducted sensitivity analysis ($130M–$175M) and risk analysis to build a one-page profile consolidating 10+ financial KPIs.
+
+Identified an M&A target using SWOT analysis and built a $150M DCF model projecting a $28.40 share price. Performed sensitivity and risk analysis to create a one-page profile summarizing 10+ key financial metrics.
 
 Predicting Cybersecurity Breach Risks 
-• Engineered 20 ML features to raise breach prediction accuracy to 87%, improving security insights for 100+ firms.
+
+Engineered 20 ML features to raise breach prediction accuracy to 87%, improving security insights for 100+ firms.
 
 A/B Testing for Website Optimization 
-• Ran A/B tests on 50K+ users, increasing repeat visits by 15% and homepage clicks by 18%, driving user engagement.
-• Increased conversions by 20% and order size by 12%, with 25% ROI improvement via data-driven changes.
+
+Conducted A/B tests on 50K+ users, boosting repeat visits by 15% and homepage clicks by 18%, enhancing user engagement. Achieved a 20% increase in conversions and 12% growth in order size, resulting in a 25% improvement in ROI through data-driven optimizations.
 
 CERTIFICATIONS
 
