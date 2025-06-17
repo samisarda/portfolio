@@ -24,9 +24,11 @@ Operations Analyst | Virginia Tech, Alexandria, VA February 2025- May 2025
 Improved front desk and mailroom efficiency by 30% through workflow redesigns impacting 500+ stakeholders. Reduced event setup time by 20% by implementing optimized, data-driven scheduling for weekly institutional events.
 
 Academic Analyst | Knack, Alexandria, VA August 2024-January 2025
+
 Improved academic performance by 20% for 20+ students through personalized Finance and Business Law tutoring. Created over 10 tailored learning pathways using diagnostic assessments and engagement metrics.
 
 Operations Analyst | Virginia Tech Dining Services, Blacksburg, VA August 2023-August 2024
+
 Reduced stock discrepancies by 15% by implementing real-time inventory tracking and optimizing staff schedules. Led and mentored 10+ student team members, enhancing service consistency and operational efficiency.
 
 SKILLS
