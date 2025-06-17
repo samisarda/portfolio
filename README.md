@@ -1,12 +1,13 @@
-# samikshas.github.io
-Business Anayst
+BUSINESS ANALYST
 
 EDUCATION
 
-Virginia Tech, Alexandria, VA Master of Science - Business Analytics, May 2025, GPA: 3.95/4.0
-Virginia Tech, Bachelor of Science - Cybersecurity Management Analytics, First Honors Graduate,Blacksburg, VA May 2024, CGPA: 4.0/4.0 
-Narsee Monjee Institute of Management Studies (NMIMS), Mumbai, India, Bachelor of Technology - Computer Science Engineering (Data Science) , May 2024, CGPA: 3.67/4.0
-(The bachelor's degrees were part of a collaborative dual-degree program between Virginia Tech and NMIMS, completed concurrently in 4 years, followed by a one-year master's degree.)
+Master of Science - Business Analytics, May 2025
+
+Bachelor of Science - Cybersecurity Management Analytics, May 2024
+
+Bachelor of Technology - Computer Science Engineering (Data Science), May 2024
+
 
 PROFESSIONAL EXPERIENCE
 
@@ -46,15 +47,18 @@ Soft Skills: Communication, Collaboration, Attention to Detail, Project Manageme
 
 ACADEMIC PROJECTS
 
-Behavioral Analytics and Product Strategy for E-Retailer January 2025-May 2025
+Behavioral Analytics and Product Strategy for E-Retailer 
 • Achieved a 15% marketing conversion lift by segmenting 1.2M customers through RFM analysis in Python.
 • Applied Apriori algorithm and Holt-Winters forecasting to drive 10% upsell growth and reduce stockouts by 20%.
-Bank of America Investment Banking Virtual Experience Program on Forage August 2024 – September 2024
+
+Bank of America Investment Banking Virtual Experience Program on Forage 
 • Identified M&A target via SWOT and built a $150M DCF model with $28.40 share price projection.
 • Conducted sensitivity analysis ($130M–$175M) and risk analysis to build a one-page profile consolidating 10+ financial KPIs.
-Predicting Cybersecurity Breach Risks January 2024 – May 2024
+
+Predicting Cybersecurity Breach Risks 
 • Engineered 20 ML features to raise breach prediction accuracy to 87%, improving security insights for 100+ firms.
-A/B Testing for Website Optimization January 2024 – May 2024
+
+A/B Testing for Website Optimization 
 • Ran A/B tests on 50K+ users, increasing repeat visits by 15% and homepage clicks by 18%, driving user engagement.
 • Increased conversions by 20% and order size by 12%, with 25% ROI improvement via data-driven changes.
 
