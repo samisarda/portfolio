@@ -19,19 +19,23 @@ Bachelor of Technology - Computer Science Engineering (Data Science), May 2024
 
 ## PROFESSIONAL EXPERIENCE
 
-**Financial Data Analyst | Virginia Tech, Alexandria, VA May 2024-May 2025**
+**Financial Analyst Intern | MSPbots.ai, Chicago, IL Jul 2025 - Present**
+
+Supporting data-driven financial decisions by building KPIs, dashboards, and automation bots to streamline reporting and improve stakeholder visibility into key metrics.
+
+**Financial Data Analyst | Virginia Tech, Alexandria, VA May 2024 - May 2025**
 
 Built automated financial models using Python and Excel to detect non-GAAP inconsistencies and improved revenue forecast accuracy by 15% through SQL-driven analysis. Created real-time Tableau dashboards and collaborated with analysts to uncover profitability patterns supporting strategic investment decisions.
 
-**Financial Data Analyst | Recoversy, India (Remote) May 2022-May 2024**
+**Financial Data Analyst | Recoversy, India (Remote) May 2022 - May 2024**
 
 Identified over $6M in recoverable assets and boosted recovery revenue by 25% through investor claim analysis and data segmentation. Built real-time Tableau dashboards and standardized 2M+ records in Python, accelerating decisions and improving recovery outcomes by up to 35%.
 
-**Operations Analyst | Virginia Tech, Alexandria, VA February 2025- May 2025**
+**Operations Analyst | Virginia Tech, Alexandria, VA February 2025 - May 2025**
 
 Improved front desk and mailroom efficiency by 30% through workflow redesigns impacting 500+ stakeholders. Reduced event setup time by 20% by implementing optimized, data-driven scheduling for weekly institutional events.
 
-**Operations Analyst | Virginia Tech Dining Services, Blacksburg, VA August 2023-August 2024**
+**Operations Analyst | Virginia Tech Dining Services, Blacksburg, VA August 2023 - August 2024**
 
 Reduced stock discrepancies by 15% by implementing real-time inventory tracking and optimizing staff schedules. Led and mentored 10+ student team members, enhancing service consistency and operational efficiency.
 
